@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Generator">
+      <HintPath>..\Generator\bin\Release\netstandard2.0\Generator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
